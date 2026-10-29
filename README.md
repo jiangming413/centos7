@@ -1,1 +1,1 @@
-# centos7
+# kube-state-metrics
